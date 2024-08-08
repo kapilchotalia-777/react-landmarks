@@ -9,7 +9,7 @@ const Data = [
     dateBuilt: "438 BC",
     description:
       "The Parthenon is a former temple on the Athenian Acropolis, regarded as an enduring symbol of Ancient Greece, democracy and Western civilization, and one of the world's greatest cultural monuments.",
-    imageUrl: "https://source.unsplash.com/ilQmlVIMN4c",
+    imageUrl: "https://img.veenaworld.com/wp-content/uploads/2022/11/The-Best-Time-to-Visit-Greece-%E2%80%93-A-Seasonal-Guide.jpg",
   },
   {
     id: 2,
@@ -20,7 +20,7 @@ const Data = [
     dateBuilt: "",
     description:
       "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-    imageUrl: "https://source.unsplash.com/WLxQvbMyfas",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlzwfjNxuuAFInofFhfkJd5uXkTDSu6AMwow&s",
   },
   {
     id: 3,
